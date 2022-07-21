@@ -1,5 +1,5 @@
 # ya_praktikum
-**The repository contains 13 projects completed as part of the Data Analyst course at Yandex Practicum.**
+**Репозиторий содержит учебные проекты, которые были выполнены в рамках прохождения курса Аналитик данных от Яндекс.Практикума**
 
 ## Containts:
 | Project's name | Description | Skills and Tools | 
