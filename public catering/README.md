@@ -1,4 +1,6 @@
 # Рынок заведений общественного питания Москвы
+Для отображения графиков plotly лучше смотреть через nbviewer:
+https://nbviewer.org/github/smetne/ya_praktikum/blob/master/public%20catering/public_catering_market.ipynb
 
 ## Данные
 Название объекта общественного питания, относится ли объект с сети или нет, тип общепита, адрес, количество посадочных мест.

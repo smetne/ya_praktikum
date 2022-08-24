@@ -1,4 +1,6 @@
 # Оценка результатов A/B-теста
+для отображения графиков plotly лучше смотреть через nbviewer:
+https://nbviewer.org/github/smetne/ya_praktikum/blob/master/evaluation%20of%20AB%20test%20results/evaluation_ab_test_results.ipynb
 
 ## Данные
 Календарь маркетинговых событий на 2020 год.
